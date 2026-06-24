@@ -1,0 +1,4 @@
+method,dimensions,execution_time_seconds,explained_variance,trustworthiness
+PCA,2,0.1599,0.6714,0.8662
+PCA,3,0.0034,0.7677,0.9403
+UMAP,2,26.0173,,0.9777

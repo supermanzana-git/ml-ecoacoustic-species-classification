@@ -1,0 +1,6 @@
+species_id,scientific_name,train_count,test_count,train_percentage,test_percentage
+10,Leptodactylus discodactylus,277,69,14.53,14.47
+12,Osteocephalus taurinus,277,70,14.53,14.68
+17,Chiroxiphia lineata,521,130,27.33,27.25
+18,Saltator grossus,278,69,14.59,14.47
+23,Pheucticus chrysopeplus,553,139,29.01,29.14

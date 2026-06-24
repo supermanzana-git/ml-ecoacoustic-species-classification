@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.venv/
+venv/
+
+# Si no quieres subir los CSV originales:
+# eco_acoustic_train.csv
+# eco_acoustic_test.csv
